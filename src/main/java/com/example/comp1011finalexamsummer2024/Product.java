@@ -8,12 +8,15 @@
 package com.example.comp1011finalexamsummer2024;
 
 import com.google.gson.JsonArray;
-
 public class Product {
-    public String sku;
-    public String name;
-    double salePrice;
-    double regularPrice;
-    public String image;
+    private String sku;
+    private String name;
+    private double salePrice;
+    private double regularPrice;
+    private String image;
 
+    @Override
+    public String toString() {
+        return String.format("%s-$%.2f", name, salePrice);
+    }
 }
