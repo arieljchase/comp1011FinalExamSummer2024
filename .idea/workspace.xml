@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d4c66d5-59c2-4bff-b8b4-e90a6cfb5aa3" name="Changes" comment="question 4 complete">
+    <list default="true" id="2d4c66d5-59c2-4bff-b8b4-e90a6cfb5aa3" name="Changes" comment="question 5 complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp1011finalexamsummer2024/TableViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011finalexamsummer2024/TableViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp1011finalexamsummer2024/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011finalexamsummer2024/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp1011finalexamsummer2024/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011finalexamsummer2024/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp1011finalexamsummer2024/table-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011finalexamsummer2024/table-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +98,7 @@
       <workItem from="1723579746468" duration="114000" />
       <workItem from="1723579883619" duration="608000" />
       <workItem from="1723580521049" duration="1057000" />
-      <workItem from="1723581611156" duration="313000" />
+      <workItem from="1723581611156" duration="1536000" />
     </task>
     <task id="LOCAL-00001" summary="creation">
       <option name="closed" value="true" />
@@ -138,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723581477563</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="question 5 complete">
+      <option name="closed" value="true" />
+      <created>1723582051015</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723582051015</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +160,7 @@
     <MESSAGE value="question 2 complete" />
     <MESSAGE value="question 3 complete" />
     <MESSAGE value="question 4 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="question 4 complete" />
+    <MESSAGE value="question 5 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="question 5 complete" />
   </component>
 </project>
