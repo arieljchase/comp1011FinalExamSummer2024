@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d4c66d5-59c2-4bff-b8b4-e90a6cfb5aa3" name="Changes" comment="question 2 complete">
+    <list default="true" id="2d4c66d5-59c2-4bff-b8b4-e90a6cfb5aa3" name="Changes" comment="question 3 complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp1011finalexamsummer2024/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011finalexamsummer2024/Customer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +95,7 @@
       <workItem from="1723575637717" duration="4051000" />
       <workItem from="1723579746468" duration="114000" />
       <workItem from="1723579883619" duration="608000" />
-      <workItem from="1723580521049" duration="232000" />
+      <workItem from="1723580521049" duration="815000" />
     </task>
     <task id="LOCAL-00001" summary="creation">
       <option name="closed" value="true" />
@@ -122,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723579187532</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="question 3 complete">
+      <option name="closed" value="true" />
+      <created>1723580774634</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723580774634</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +139,7 @@
     <MESSAGE value="creation" />
     <MESSAGE value="question 1 complete" />
     <MESSAGE value="question 2 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="question 2 complete" />
+    <MESSAGE value="question 3 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="question 3 complete" />
   </component>
 </project>

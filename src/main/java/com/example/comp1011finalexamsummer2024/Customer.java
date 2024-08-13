@@ -4,20 +4,21 @@
 
 package com.example.comp1011finalexamsummer2024;
 
-import com.google.gson.Gson;
 import com.google.gson.JsonArray;
-import com.google.gson.JsonObject;
-import com.google.gson.stream.JsonReader;
 
-import java.io.FileReader;
-import java.io.IOException;
+import java.lang.reflect.Array;
+import java.util.Arrays;
+import java.util.List;
 
 public class Customer {
     int id;
     public String firstName;
     public String lastName;
     public String phoneNumber;
-    JsonArray purchases = jsonObject.getJsonArray("purchases");
+    private JsonArray jsonObject;
+    JsonArray purchases = jsonObject.isJsonArray("purchases");
+
+    List<JsonArray> totalPurchases = Arrays.asList(purchases);
 
 }
 
