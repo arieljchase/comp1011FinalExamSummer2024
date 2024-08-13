@@ -23,7 +23,8 @@ public class TableViewController {
     private Label rowsInTableLabel;
 
     @FXML
-    private TableView<Customer> tableView;
+    private TableView<Customer> tableView ;
+
 
     @FXML
     private TableColumn<Customer, Integer> idColumn;
@@ -45,6 +46,8 @@ public class TableViewController {
 
     @FXML
     private ImageView imageView;
+
+
 
     @FXML
     private void top10Customers()

@@ -16,7 +16,7 @@ public class Customer {
     public String lastName;
     public String phoneNumber;
     private JsonArray jsonObject;
-    JsonArray purchases = jsonObject.isJsonArray("purchases");
+    JsonArray purchases = jsonObject;
 
     List<JsonArray> totalPurchases = Arrays.asList(purchases);
 
